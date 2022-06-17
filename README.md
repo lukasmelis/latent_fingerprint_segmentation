@@ -4,3 +4,5 @@ This repository contains:
 - **desing/**  -- .ui files for GUI app
 - **segmentation_tool.py** -- our GUI controller
 - **mrcnn_latent/** -- implementation of Mask R-CNN
+
+In directory mrcnn_latent are missing training weights, because of 100 MB github limit. In case you want them, write on my email: lukasomeli@gmail.com
